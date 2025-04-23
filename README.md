@@ -1,5 +1,5 @@
-```txt
-   # Hello World API
+   ```txt
+    # Hello World API
 
     Welcome to the Hello World API! This project is a simple API designed to help you learn and practice essential GitOps concepts, including Git, Docker, and Ansible. The API serves as a foundation for exploring modern development workflows and tools.
 
@@ -19,7 +19,7 @@
     ├── .gitignore       # Files and directories to ignore in Git
     ├── src/             # Source code for the API
     └── tests/           # Unit tests for the API
-    ```
+    block```
 
     ## Getting Started
 
