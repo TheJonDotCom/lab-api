@@ -1,3 +1,4 @@
+```txt
    # Hello World API
 
     Welcome to the Hello World API! This project is a simple API designed to help you learn and practice essential GitOps concepts, including Git, Docker, and Ansible. The API serves as a foundation for exploring modern development workflows and tools.
@@ -11,7 +12,7 @@
 
     ## Project Structure
 
-    ```
+    ```code
     lab-api/
     ├── Dockerfile       # Docker configuration for containerizing the API
     ├── README.md        # Project documentation
@@ -38,3 +39,4 @@
     ## License
 
     This project is licensed under the MIT License. See the `LICENSE` file for details.
+    ```
