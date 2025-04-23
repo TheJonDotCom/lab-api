@@ -12,14 +12,14 @@
 
     ## Project Structure
 
-    ```code
+    ```code block```
     lab-api/
     ├── Dockerfile       # Docker configuration for containerizing the API
     ├── README.md        # Project documentation
     ├── .gitignore       # Files and directories to ignore in Git
     ├── src/             # Source code for the API
     └── tests/           # Unit tests for the API
-    block```
+    ```code block```
 
     ## Getting Started
 
